@@ -13,7 +13,8 @@ body {
 
 header {
     border-radius: 15px;
-    background-color: #073453;
+    background: rgb(7,52,83);
+    background: linear-gradient(164deg, rgba(7,52,83,1) 0%, rgb(27, 74, 107) 100%);
     color: #FFECD1;
     box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 1);
 }
